@@ -19,7 +19,7 @@
 		<artifactId>spring-core</artifactId>
 		<version>6.0.3</version>
 </dependency>
-
+	hello nain
   </dependencies>
   <build>
     <finalName>01Ass-maven-web-app</finalName>
